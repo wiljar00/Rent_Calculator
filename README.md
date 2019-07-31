@@ -8,6 +8,6 @@ The primary purpose of this project was to gain familiarity with using G++ compi
 
 To run the program, download the project and run the "test" executable. 
 
-Included is a sample screenshot of the program running.
+*Included is a sample screenshot of the program running.*
 
-![screenshot](/Screen Shot 2019-07-31 at 12.23.04 PM.png)
+![screenshot](screenshot.png)
